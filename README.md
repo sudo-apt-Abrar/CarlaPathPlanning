@@ -15,4 +15,6 @@ https://user-images.githubusercontent.com/56578171/119259037-f4934b80-bbe9-11eb-
 
 **SLAM to Controls**
 
+**_Click on the images to watch the video_**
+
 [![Video](https://img.youtube.com/vi/XEGAcJXt200/0.jpg)](https://www.youtube.com/watch?v=XEGAcJXt200 "Live implementation")
